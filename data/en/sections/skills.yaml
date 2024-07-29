@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Research
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Computational Imaging
+  #logo: /images/sections/skills/CI.png
+  summary: "Applies mathematical models and algorithms to enhance and analyze images captured with non-traditional systems."
+  #url: "https://kubernetes.io/"
+
+- name: Hyperspectral Imaging
+  #logo: /images/sections/skills/go.png
+  summary: "Technique that captures images at many wavelengths simultaneously to obtain detailed information about objects."
+  url: "https://golang.org/"
+
+- name: Time-of-flight Imaging
+  #logo: /images/sections/skills/cloud.png
+  summary: "Technology that measures depth by calculating the time it takes for light to travel from the camera to the object and back."
+
+- name: Compressed Sensing
+  #logo: /images/sections/skills/docker.svg
+  summary: "Method for reconstructing complete signals and images from sub-optimal data samples."
+  url: "https://www.docker.com/"
+
+- name: Optics
+  #logo: /images/sections/skills/prometheus.png
+  summary: "Science that studies light and its behavior when interacting with different materials."
+  url: "https://prometheus.io/"
+
+- name: Optimization Algorithms
+  #logo: /images/sections/skills/linux.png
+  summary: "Mathematical tools used to find efficient solutions to problems with multiple variables and constraints."
+

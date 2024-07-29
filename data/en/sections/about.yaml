@@ -1,0 +1,104 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Assistant Professor 
+# your company information
+company:
+  name: Universidad Industrial de Santander
+  url: "https://uis.edu.co/en/"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I received the B. Sc. and M. Sc. degrees in Computer Science from the Universidad Industrial de Santander (UIS), Colombia, in 2009 and 2012, respectively, and the M. Sc. and Ph. D. degrees in Electrical and Computer Engineering from the University of Delaware (UDel), Newark, DE, USA, in 2015 and 2017, respectively, sponsored by a Fulbright-Colciencias scholarship. My main research areas are computational imaging, compressive sensing, high dimensional signal processing and optimization algorithms. I am currently directing [HoCV](https://semillerocv.github.io/).'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "hfarueda@uis.edu.co"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/hfarueda"
+
+- name: Google Scholar 
+  icon: "fas fa-graduation-cap"
+  url: "https://scholar.google.com/citations?user=seyRms4AAAAJ&hl=en"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/hoover-rueda-chac%C3%B3n-18318a313/"
+
+- name: X
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/hfarueda"
+
+#- name: Facebook
+ # icon: "fab fa-facebook"
+ # url: "#"
+
+#- name: Mastadon
+ # icon: "fab fa-mastodon"
+ # url: "#"
+  #rel: "me noopener"
+
+- name: ResearchGate
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0000-0002-6763-8629"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My research seedbed"
+  url: "https://semillerocv.github.io/"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name:
+  url: "https://uis.edu.co/en/"
+  badge: "/images/sections/experiences/uis.png"
+
+- type: certification
+  name: 
+  url: "https://www.udel.edu/"
+  badge: "/images/sections/experiences/delaware.png"
+
+- type: certification
+  name: 
+  url: "https://semillerocv.github.io/"
+  badge: "/images/sections/experiences/hocv.png"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 85
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

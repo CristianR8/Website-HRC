@@ -1,0 +1,36 @@
+/* override this file for custom css */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@800&display=swap');
+
+
+/* you can import boostrap mixins */
+// @import 'bootstrap/scss/mixins';
+// Example usage
+// .some-class {
+//   @include media-breakpoint-up(sm) {
+//     // Larger than sm: 576px
+//     display: inline;
+//   }
+//   @include media-breakpoint-down(md) {
+//     // Smaller than md: 768px
+//     display: block;
+//   }
+// }
+/*  */
+.home{
+  font-family: 'DM Sans', sans-serif;
+  font-size: 24px;
+  font-weight: 700; /* Ajustado para mantener la negrita */
+  line-height: 1.4;
+  color: #333; /* Gris oscuro para una buena legibilidad */
+  text-shadow: 1px 1px 2px #000; /* Sombra sutil para resaltar el texto */
+  letter-spacing: 0.5px; /* Espaciado entre letras ligeramente aumentado */
+    
+    
+    .background{
+      filter: none;
+      opacity: 0.9;
+    }
+  }
+
+  
+  
