@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: Honors and Awards
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -10,98 +10,93 @@ section:
   # hideTitle: true
 
 degrees:
-- name: B. S. Computer Science
+- name: Department of Computer Science and Informatics, Universidad Industrial de Santander
   icon: fa-graduation-cap
-  timeframe: "Bucaramanga, Colombia"
+  timeframe: Bucaramanga, Colombia
   institution:
-    name: B. S. Computer Science - Universidad Industrial de Santander (2004-2009)
+    name: Undergraduate Outstanding Student (2006-2008)
     #url: "#"
     logo: /images/sections/education/uis.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
-  grade: #(optional)
-    #scale:  
-    #achieved: 
-    #outOf: 4
-  publications: #(optional)
-  - title: "Graduate project: Design and development of a software tool as support for communications via mobile phones through speech synthesis"
-   # url: "#"
- 
-- name: M. Sc. Computer Science and Informatics (2010-2012)
+
+- name: 'Session: Image, Acoustic, Visual and Language Signal Processing' 
+  icon: fa-microscope
+  timeframe: CISCI 2010, Orlando, FL., USA
+  institution:
+    name: Best Paper Award (2010)
+    #: "#"
+    logo: /images/sections/experiences/Logo_CISCI.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/university.jpg
+
+
+- name: Department of Computer Science and Informatics, Universidad Industrial de Santander
   icon: fa-microscope
   timeframe: Bucaramanga, Colombia
   institution:
-    name: M. Sc. Computer Science and Informatics, Universidad Industrial de Santander (2010-2012)
+    name: Master Outstanding Student (2011-2012)
     #url: "#"
     logo: /images/sections/education/uis.png
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/university.jpg
-  grade: #(optional)
-    #scale: CGPA
-    #achieved: 3.5
-    #outOf: 4
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-   # showGrades: true
-   # collapseAfter: 3
-   # courses:
-    #- name: Data Structures and Algorithm
-    #  achieved: 3.75
-    #  outOf: 4
-   # - name: Network Security
-    #  achieved: 3.80
-   #   outOf: 4
-   # - name: Operating System
-   #   achieved: 3.5
-   #   outOf: 4
-   # - name: Artificial Intelligent
-     # achieved: 3.75
-    #  outOf: 4
-  publications: #(optional)
-  - title: "Master Thesis: “Super-resolution algorithm applied to spectral images acquired via Compressive Sensing”"
-  #  url: "#"
-  #- title: Fusce eu augue ut odio porttitor pulvinar.
-   # url: "#"
-  #extracurricularActivities: #(optional)
-  #- In vitae facilisis est, eget porta sem.
-  #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  #- Duis sed massa feugiat, ornare justo et, aliquam est.
-  #- Pellentesque ut fringilla magna.
-  #custonSections: #(optional)
-  #  - name: Thesis
-   #   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-   # - name: Supervisor
-   #   content: Fusce eu augue ut odio porttitor pulvinar.
-- name: M. Sc. Electrical and Computer Engineering 
-  icon: fa-university
-  timeframe: Newark, DE, USA
+    # darkLogo: /images/sections/education/science_college.png
+  
+
+- name: Department of Computer Science and Informatics, Universidad Industrial de Santander
+  icon: fa-trophy
+  timeframe: Bucaramanga, Colombia
   institution:
-    name: M. Sc. Electrical and Computer Engineering, University of Delaware (2013 - 2015) 
+    name: Master’s Meritorious Thesis Award (2012)  
     #url: "#"
-    logo: /images/sections/education/delaware.jpeg
+    logo: /images/sections/education/uis.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
-  grade: #(optional)
-    #scale: GPA
-    #achieved: 5
-    #outOf: 5
   publications: #(optional)
-  - title: "Master Thesis: “Higher order discretization model for coded aperture spectral imaging systems"
-  extracurricularActivities: #(optional)
-  #- In vitae facilisis est, eget porta sem.
-  #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  #- Duis sed massa feugiat, ornare justo et, aliquam est.
-  #- Pellentesque ut fringilla magna.
-- name: Ph. D. Electrical and Computer Engineering 
-  icon: fa-school
-  timeframe: Newark, DE, USA
+  - title: "Thesis: “Super-resolution algorithm applied to spectral images acquired via CS”"
+    url: "#"
+
+
+- name: Scholarship for pursuing Ph.D. studies abroad. COLCIENCIAS
+  icon: fa-microscope
+  timeframe: Bogota D.C., Colombia
   institution:
-    name: Ph. D. Electrical and Computer Engineering, University of Delaware (2015 - 2017)
-    logo: /images/sections/education/delaware.jpeg
-  grade: #(optional)
-    #scale: GPA
-    #achieved: 4.5
-    #outOf: 5
-  publications: #(optional)
-    - title: "Doctoral Dissertation: “Compressive coded-aperture multimodal imaging systems”"
+    name: Fulbright-COLCIENCIAS Scholarship (2012-2017)
+    #url: "#"
+    logo: /images/sections/experiences/fulbright_colciencias.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/science_college.png
+  
+
+- name: Office of Graduate and Professional Education, University of Delaware
+  icon: fa-trophy
+  timeframe: Newark, DE., USA
+  institution:
+    name: Professional Development Award (2014 and 2016)
+    #url: "#"
+    logo: /images/sections/experiences/delaware.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/science_college.png
+
+
+- name: Department of Electrical and Computer Engineering, University of Delaware
+  icon: fa-trophy
+  timeframe: Newark, DE., USA
+  institution:
+    name: Signal Processing and Communications Graduate Faculty Award (2016)
+    #url: "#"
+    logo: /images/sections/experiences/ECE_UD_Delaware.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/science_college.png
+
+
+- name: Office of Graduate and Professional Education, University of Delaware
+  icon: fa-university
+  timeframe: Newark, DE., USA
+  institution:
+    name: University Dissertation Fellow Award (2016)
+    #url: "#"
+    logo: /images/sections/experiences/delaware.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/science_college.png
+
 

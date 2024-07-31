@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Honors and Awards
+  name: Education
   id: experiences
   enable: true
   weight: 3
@@ -11,14 +11,14 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Undergraduate Outstanding Student
+    name: B. S. Computer Science
     #url: "https://www.example.com"
-    location: Bucaramanga, Colombia
+    location: Universidad Industrial de Santander, Bucaramanga, Colombia
     logo: /images/sections/experiences/uis.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Department of Computer Science and Informatics, Universidad Industrial de Santander
+    overview: 'Graduate project: "Design and development of a software tool as support for communications via mobile phones through speech synthesis"'
   positions:
   - designation: 
     start: 2006
@@ -29,93 +29,42 @@ experiences:
     #responsibilities:
 
 - company:
-    name: Best Paper Award
+    name: M. Sc. Computer Science and Informatics
    # url: "https://www.example.com"
-    location: 9th IberoConference on Systemics, Cibernetics and Informatics – CISCI 2010, Orlando, FL., USA
-    logo: /images/sections/experiences/Logo_CISCI.png
-    # Can optionally show a different logo for dark theme
-    #darkLogo: /images/sections/experiences/delaware.png
-    overview: Image, Acoustic, Visual and Language Signal Processing
-  positions:
-  - designation: 
-    end: 2010 -
-
-- company:
-    name: Master Outstanding Student
-    #url: "https://www.example.com"
-    location: Bucaramanga, Colombia
+    location: Universidad Industrial de Santander, Bucaramanga, Colombia
     logo: /images/sections/experiences/uis.png
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Department of Computer Science and Informatics, Universidad Industrial de Santander
+    #darkLogo: /images/sections/experiences/delaware.png
+    overview: "Master Thesis: “Super-resolution algorithm applied to spectral images acquired via Compressive Sensing”"
   positions:
-  - designation:
-    start: 2011
+  - designation: 
+    start: 2010
     end: 2012
 
 - company:
-    name: Master’s Meritorious Thesis Award 
+    name: M. Sc. Electrical and Computer Engineering
     #url: "https://www.example.com"
-    location: Bucaramanga, Colombia
-    logo: /images/sections/experiences/uis.png
+    location: University of Delaware, Newark, DE, USA
+    logo: /images/sections/experiences/delaware.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: "Thesis: Super-resolution algorithm applied to spectral images acquired via CS"
+    overview: "Master Thesis: “Higher order discretization model for coded aperture spectral imaging systems”"
   positions:
   - designation:
-    start: 
-    end: 2012 -
+    start: 2013
+    end: 2015
 
 - company:
-    name: Fulbright-COLCIENCIAS Scholarship
+    name: Ph. D. Electrical and Computer Engineering
     #url: "https://www.example.com"
-    location: Bucaramanga, Colombia
-    logo: /images/sections/experiences/fulbright_colciencias.png
+    location: University of Delaware, Newark, DE, USA
+    logo: /images/sections/experiences/delaware.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Scholarship for pursuing Ph.D. studies abroad. COLCIENCIAS
+    overview: "Doctoral Dissertation: “Compressive coded-aperture multimodal imaging systems”"
   positions:
   - designation:
-    start: 2012
+    start: 2015
     end: 2017
-    
-- company:
-    name: Professional Development Award 
-    #url: "https://www.example.com"
-    location: Office of Graduate and Professional Education, University of Delaware, Newark, DE., USA
-    logo: /images/sections/experiences/delaware.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    #overview: Department of Computer Science and Informatics, Universidad Industrial de Santander
-  positions:
-  - designation:
-    start: 
-    end: 2014 and 2016 -
 
-
-- company:
-    name: Signal Processing and Communications Graduate Faculty Award
-    #url: "https://www.example.com"
-    location: Department of Electrical and Computer Engineering, University of Delaware, Newark, DE., USA
-    logo: /images/sections/experiences/ECE_UD_Delaware.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    #overview: Department of Computer Science and Informatics, Universidad Industrial de Santander
-  positions:
-  - designation:
-    start: 
-    end: 2016 -
-
-- company:
-    name: University Dissertation Fellow Award
-    #url: "https://www.example.com"
-    location: Office of Graduate and Professional Education, University of Delaware, Newark, DE., USA
-    logo: /images/sections/experiences/delaware.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    #overview: Department of Computer Science and Informatics, Universidad Industrial de Santander
-  positions:
-  - designation:
-    start: 
-    end: 2016 -
 

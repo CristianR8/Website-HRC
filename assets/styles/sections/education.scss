@@ -1,5 +1,6 @@
 .education-section {
   @include section-title-adjustment();
+  
 
   .card {
     &:hover,
@@ -227,6 +228,11 @@ html[data-theme='dark'] {
             &:hover{
               border: 1px solid rgba(get-dark-color('accent-color'),0.2);
               border-left: 2px solid get-dark-color('accent-color');
+            }
+          }
+          .custom-section {
+            .custom-content {
+              color: get-dark-color('text-color');
             }
           }
         }

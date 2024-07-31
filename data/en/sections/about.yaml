@@ -68,19 +68,19 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name:
+  name: "UIS Certification"
   url: "https://uis.edu.co/en/"
   badge: "/images/sections/experiences/uis.png"
 
 - type: certification
-  name: 
+  name: "University of Delaware"
   url: "https://www.udel.edu/"
   badge: "/images/sections/experiences/delaware.png"
 
 - type: certification
-  name: 
+  name: "Hands On Computer Vision"
   url: "https://semillerocv.github.io/"
-  badge: "/images/sections/experiences/hocv.png"
+  badge: "/images/sections/experiences/logo_hocv.png"
 
 - type: soft-skill-indicator
   name: Leadership

@@ -21,62 +21,696 @@ buttons:
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: Diseño y desarrollo de una herramienta software como soporte a la comunicacion via celular mediante sintesis de voz
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Universidad Industrial de Santander, Bucaramanga, Colombia
+    date: December 2009
+    #url: 
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Claudia Correa
+    #url: 
+  - name: Hoover Rueda
+    #url: 
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
+    summary: Graduate project, Department of Computer Science and Engineering
     url: https://example.com
   categories: ["machinelearning","image-processing"]
   tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
 
-- title: An Sample Paper on Image Processing
+- title: Síntesis de voz por concatenación de difonemas para el español de Colombia
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Revista Iberoamericana en Sistemas, Cibernética e Informática
+    date: 2010
+   # url: https://example.com
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Claudia Correa
+  #  url: https://example.com
+  - name: Hoover Rueda
+ #   url: https://example.com
+  - name: Henry Arguello
+ #   url: https://example.com
   paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
+    summary: Revista Iberoamericana en Sistemas, Cibernética e Informática - vol. 7, no. 1, pp. 19-24, 2010
     url: https://example.com
   categories: ["image-processing"]
   tags: ["Image Processing", "Computer Vision"]
 
-- title: An Example Paper on Security
+- title: Design and development of a speech synthesis software for colombian spanish applied to communication through mobile devices
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Dyna, vol. 79, no. 173, pp. 71-80
+    date: 2012
+    #url: https://example.com
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Claudia Correa
+   # url: https://example.com
+  - name: Henry Arguello
+    #url: https://example.com
+ 
   paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
+    summary: 
     url: https://example.com
   categories: ["security"]
   tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+
+- title: Robust tracking and anomaly detection in video surveillance sequences
+  publishedIn:
+    name: Baltimore, MD., USA
+    date: April 23-27 2012
+   # url: https://example.com
+  authors:
+  - name: Hoover Rueda
+  #  url: https://example.com
+  - name: Luisa Polania
+ #   url: https://example.com
+  - name: HKenneth E. Barner
+ #   url: https://example.com
+  paper:
+    summary: Proceedings of SPIE Conference on Defense, Security and Sensing (DCS '12)
+    url: https://example.com
+  categories: ["image-processing"]
+  tags: ["Image Processing", "Computer Vision"]
+
+- title: Spatial super-resolution in code aperture spectral imaging
+  publishedIn:
+    name: Baltimore, MD., USA
+    date: April 23-27, 2012
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Gonzalo R. Arce
+    #url: https://example.com
+ 
+  paper:
+    summary: Proceedings of SPIE Conference on Defense, Security and Sensing (DCS '12)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Super-resolution algorithm applied to spectral images acquired via Compressive Sensing
+  publishedIn:
+    name: Universidad Industrial de Santander, Bucaramanga, Colombia
+    date: December 2012
+   # url: https://example.com
+  authors:
+  - name: Hoover Rueda-Chacón
+  #  url: https://example.com
+
+  paper:
+    summary: Master Thesis, Department of Computer Science and Engineering
+    url: https://example.com
+  categories: ["image-processing"]
+  tags: ["Image Processing", "Computer Vision"]
+
+- title: Higher-order computational model for coded aperture spectral imaging
+  publishedIn:
+    name: vol. 52, no. 10, pp. D12-D21
+    date: 2013
+    #url: https://example.com
+  authors:
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Yuehao Wu
+    #url: https://example.com
+  - name: Dennis W Prather
+    #url: https://example.com
+  - name: Gonzalo R. Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Applied Optics
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Higher-order computational model for coded aperture spectral imaging
+  publishedIn:
+    name: vol. 52, no. 10, pp. D12-D21
+    date: 2013
+    #url: https://example.com
+  authors:
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Yuehao Wu
+    #url: https://example.com
+  - name: Dennis W Prather
+    #url: https://example.com
+  - name: Gonzalo R. Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Applied Optics
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: On super-resolved coded aperture spectral imaging
+  publishedIn:
+    name: Baltimore, MD., USA
+    date: April 29 - May 3, 2013
+    #url: https://example.com
+  authors:
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Yuehao Wu
+    #url: https://example.com
+  - name: Dennis W Prather
+    #url: https://example.com
+  - name: Gonzalo R. Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of SPIE Conference on Defense, Security and Sensing (DCS '13)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: High-precision discretization model for coded aperture-based compressive spectral imaging
+  publishedIn:
+    name: Vancouver, Canada
+    date: May 26-31, 2013
+    #url: https://example.com
+  authors:
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Gonzalo R. Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP '13)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+
+- title: Spatial super-resolution in coded aperture-based optical compressive hyperspectral imaging systems
+  publishedIn:
+    name: vol. 67, pp. 7-18
+    date: 2013
+    #url: https://example.com
+  authors:
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+
+  paper:
+    summary: Revista Facultad de Ingeniería Universidad de Antioquia
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Demonstration of a Higher-Order Discretization Model for Compressive Spectral Imaging
+  publishedIn:
+    name: Arlington, Virginia, USA
+    date: June 23–27, 2013
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Alejandro Parada
+   # url: https://example.com
+  - name: Henry Arguello
+    #url: https://example.com
+  - name: Yuehao Wu
+    #url: https://example.com
+  - name: Dennis W Prather
+    #url: https://example.com
+  - name: Gonzalo R. Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of Imaging and Applied Optics Congress 2013 (COSI '13)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+
+- title: Spectral selectivity in compressive spectral imaging based on grayscale coded apertures
+  publishedIn:
+    name: Bogota D.C., Colombia
+    date: September 11-13, 2013
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Armando Calderón
+   # url: https://example.com
+  - name: Henry Arguello
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of IEEE XVIII Symposium of Image, Signal Processing, and Artificial Vision (STSIVA '13)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Compressive spectral imaging based on colored coded apertures
+  publishedIn:
+    name: Florence, Italy
+    date: May 4-9, 2014
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Gonzalo R. Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP '14)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+
+- title: Experimental Demonstration of a Colored Coded Aperture-based Compressive Spectral Imaging System
+  publishedIn:
+    name: Kohala Coast, Hawaii, USA
+    date: June 22-26, 2014
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Gonzalo R. Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of Imaging and Applied Optics Congress 2014 (COSI '14)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Single-pixel optical sensing architecture for compressive hyperspectral imaging
+  publishedIn:
+    name: vol. 73, pp. 124-133
+    date: 2014
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Cesar Vargas
+   # url: https://example.com
+  - name: Henry Arguello
+    #url: https://example.com
+  
+  paper:
+    summary: Revista Facultad de Ingeniería Universidad de Antioquia
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Spectral resolution enhancement of hyperspectral imagery by a multiple-aperture compressive optical imaging system
+  publishedIn:
+    name: vol. 34, no. 3, pp. 50-55
+    date: 2014
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Alejandro Parada
+   # url: https://example.com
+  - name: Henry Arguello
+    #url: https://example.com
+  
+  paper:
+    summary: Ingeniería e Investigación
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Higher order discretization model for Coded Aperture Spectral Imaging Systems
+  publishedIn:
+    name: University of Delaware, Newark, DE., US
+    date: Spring 2015
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda-Chacón
+   # url: https://example.com
+
+  paper:
+    summary: Master Thesis, Department of Electrical and Computer Engineering
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: DMD-based implementation of patterned optical filter arrays for compressive spectral imaging
+  publishedIn:
+    name: vol. 32, no. 1, pp. 80-89
+    date: 2015
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Gonzalo R Arce
+    #url: https://example.com
+  
+  paper:
+    summary: JOSA A
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Multi-spectral compressive snapshot imaging using RGB image sensors
+  publishedIn:
+    name: vol. 23, no. 9, pp. 12207-12221
+    date: 2015
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Daniel Lau
+   # url: https://example.com
+  - name: Gonzalo R Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Optics Express
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: High-dynamic range compressive spectral imaging by adaptive filtering
+  publishedIn:
+    name: Pisa, Italy
+    date: June 16-19, 2015
+    #url: https://example.com
+  authors:
+  - name: Nelson Diaz
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of 3rd International Workshop on Compressed Sensing Theory and its Applications to Radar, Sonar and Remote Sensing (CoSeRa '15)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: High-dynamic range compressive spectral imaging by grayscale coded aperture adaptive filtering
+  publishedIn:
+    name: vol. 35, no. 3, pp. 53-60
+    date: 2015
+    #url: https://example.com
+  authors:
+  - name: Nelson Diaz
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+    #url: https://example.com
+  
+  paper:
+    summary: Ingeniería e Investigación
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Analysis of Matrix Completion algorithms for spectral image estimation from compressive coded projections  
+  publishedIn:
+    name: Bogota D.C., Colombia
+    date: September 2-4, 2015
+    #url: https://example.com
+  authors:
+  - name: Carlos Hinojosa
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of IEEE XX Symposium of Image, Signal Processing, and Artificial Vision (STSIVA '15)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Coded aperture design for hyper-spectral image recovery via Matrix Completion
+  publishedIn:
+    name: Bogota D.C., Colombia
+    date: September 2-4, 2015
+    #url: https://example.com
+  authors:
+  - name: Tatiana Gélvez
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of IEEE XX Symposium of Image, Signal Processing, and Artificial Vision (STSIVA '15)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Dual-ARM VIS/NIR compressive spectral imager
+  publishedIn:
+    name: Quebec City, Canada
+    date: Septiembre 27-30, 2015
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Gonzalo R. Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of IEEE International Conference on Image Processing (ICIP '15)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Approximate message passing in coded aperture snapshot spectral imaging
+  publishedIn:
+    name: Orlando, FL., USA
+    date: December 14-16, 2015
+    #url: https://example.com
+  authors:
+  - name: Jin Tan
+   # url: https://example.com
+  - name: Yanting Ma
+   # url: https://example.com
+  - name: Hoover Rueda
+    #url: https://example.com
+  - name: Dror Baron
+    #url: https://example.com
+  - name: Gonzalo R Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of IEEE Global Conference on Signal and Information Processing (GlobalSIP '15)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: RGB detectors on compressive snapshot multi-spectral imagers
+  publishedIn:
+    name: Orlando, FL., USA
+    date: December 14-16, 2015
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Daniel Lau
+   # url: https://example.com
+  - name: Gonzalo R Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of IEEE Global Conference on Signal and Information Processing (GlobalSIP '15)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: 'Colored Coded Aperture Compressive Spectral Imaging: Design and Experimentation'
+
+  publishedIn:
+    name: Orlando, FL., USA
+    date: December 14-16, 2015
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Gonzalo R Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of IEEE Global Conference on Signal and Information Processing (GlobalSIP '15)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Compressive hyperspectral imaging via approximate message passing
+  publishedIn:
+    name: vol. 10, no. 2, pp. 389-401
+    date: 2016
+    #url: https://example.com
+  authors:
+  - name: Jin Tan
+   # url: https://example.com
+  - name: Yanting Ma
+   # url: https://example.com
+  - name: Hoover Rueda
+    #url: https://example.com
+  - name: Dror Baron
+    #url: https://example.com
+  - name: Gonzalo R Arce
+    #url: https://example.com
+  
+  paper:
+    summary: IEEE Journal of Selected Topics in Signal Processing
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Simultaneously sparse and low rank hyperspectral image recovery from coded aperture compressive measurements via convex optimization
+  publishedIn:
+    name: Baltimore, MD., USA
+    date: April 17-21, 2016
+    #url: https://example.com
+  authors:
+  - name: Tatiana Gélvez
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of SPIE Conference on Commercial + Scientific Sensing and Imaging (DCS '16)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Adaptive uniform grayscale coded aperture design for high dynamic range compressive spectral imaging
+  publishedIn:
+    name: Baltimore, MD., USA
+    date: April 17-21, 2016
+    #url: https://example.com
+  authors:
+  - name: Nelson Diaz
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of SPIE Conference on Commercial + Scientific Sensing and Imaging (DCS '16)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Compressive spectral integral imaging using a microlens array
+  publishedIn:
+    name: Baltimore, MD., USA
+    date: April 17-21, 2016
+    #url: https://example.com
+  authors:
+  - name: Weiyi Feng
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Chen Fu
+    #url: https://example.com
+  - name: Q Chen
+    #url: https://example.com
+  - name: Gonzalo R Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of SPIE Conference on Commercial + Scientific Sensing and Imaging (DCS '16)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Development of a Compressive Spectral Testbed based on Thin-film Color-patterned Filter Array
+  publishedIn:
+    name: Heidelberg, Germany
+    date: July 25-28, 2016
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Gonzalo R Arce
+    #url: https://example.com
+  
+  paper:
+    summary: Proceedings of Imaging and Applied Optics Congress 2016 (COSI '16)
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: 3D compressive spectral integral imaging
+  publishedIn:
+    name: vol. 24, no. 22, pp. 24859-24871
+    date: 2016
+    #url: https://example.com
+  authors:
+  - name: Weiyi Feng
+   # url: https://example.com
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Chen Fu
+    #url: https://example.com
+  - name: Gonzalo R Arce
+    #url: https://example.com
+  - name: Weiji He
+    #url: https://example.com
+  - name: Qian Chen
+    #url: https://example.com
+  
+  
+  paper:
+    summary: Optics Express
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+- title: Compressive spectral testbed imaging system based on thin-film color-patterned filter arrays
+  publishedIn:
+    name: vol. 55, no. 33, pp. 9584-9593
+    date: 2016
+    #url: https://example.com
+  authors:
+  - name: Hoover Rueda
+   # url: https://example.com
+  - name: Henry Arguello
+   # url: https://example.com
+  - name: Gonzalo R Arce
+  
+  paper:
+    summary: Applied Optics
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+
+
+
