@@ -8,6 +8,10 @@
 
       .card-img-xs {
         margin-right: 0.5rem;
+        width: auto;  /* Adjust based on your design needs */
+        height: auto; /* This maintains the aspect ratio */
+        max-width: 100%; /* Ensures the image does not overflow its container */
+        max-height: 120px; /* Example size, adjust as necessary */
       }
       .sub-title {
         color: get-light-color('muted-text-color');
