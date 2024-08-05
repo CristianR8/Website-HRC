@@ -10,15 +10,15 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+- title: CVPR2024
+  image: /images/sections/achievements/cvpr.jpeg
+  summary: My participation in the LatinX in AI Workshop at CVPR2024
+- title: Research Seedbed Session
+  image: /images/sections/achievements/session.jpg
+  summary: One of the classroom sessions of our research seminar
+- title: HoCV Group
+  image: /images/sections/achievements/group.jpg
+  summary: The group of people behind Hands on Computer vision
+- title: Optica 2023
+  image: /images/sections/achievements/optica.jpeg
+  summary: My participation in Optica Imaging Congress 202
