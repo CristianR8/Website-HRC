@@ -19,21 +19,21 @@ skills:
 - name: Hyperspectral Imaging
   logo: /images/sections/skills/spectral.png
   summary: "Technique that captures images at many wavelengths simultaneously to obtain detailed information about objects."
-  url: "https://golang.org/"
+  #url: "https://golang.org/"
 
 - name: Time-of-flight Imaging
   logo: /images/sections/skills/laserbeam.png
   summary: "Technology that measures depth by calculating the time it takes for light to travel from the camera to the object and back."
 
 - name: Compressed Sensing
-  logo: /images/sections/skills/cs.png
+  logo: /images/sections/skills/signal.png
   summary: "Method for reconstructing complete signals and images from sub-optimal data samples."
-  url: "https://www.docker.com/"
+  #url: "https://www.docker.com/"
 
 - name: Optics
   logo: /images/sections/skills/optics.png
   summary: "Science that studies light and its behavior when interacting with different materials."
-  url: "https://prometheus.io/"
+  #url: "https://prometheus.io/"
 
 - name: Optimization Algorithms
   logo: /images/sections/skills/oa.png
